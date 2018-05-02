@@ -50,4 +50,4 @@ A HUGE Thanks [imaaronjames](https://github.com/imaaronjames) and [jpwain](https
 #### v2.0 - Converting Sketch file to Shared Library
 * Converted icons to symbols
 * Added `How to Sketch Library` artboard
-* Splited symbol icons into their respective category. i.e. Action, Alert, AV, etc.
+* Split symbol icons into their respective categories, i.e. Action, Alert, AV, etc.
