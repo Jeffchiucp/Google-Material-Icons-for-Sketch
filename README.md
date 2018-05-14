@@ -1,12 +1,18 @@
-### Google Material Icons for Sketch [[DOWNLOAD]](https://github.com/LPZilva/Google-Material-Icons-for-Sketch/archive/master.zip) | [🐦 Twitter](http://twitter.com/lpzilva) • [🏀 Dribbble](http://dribbble.com/lpzilva)
+### (Discontinued) Google Material Icons for Sketch - [DOWNLOAD](https://github.com/LPZilva/Google-Material-Icons-for-Sketch/archive/master.zip) | [🐦 Twitter](http://twitter.com/lpzilva) • [🏀 Dribbble](http://dribbble.com/lpzilva)
+
+Because Google Design team did a really good job with its new **[Material Theme Editor](https://material.io/tools/theme-editor/)** plugin, I decided to stop supporting future updates. The plugin has lots of features and resources, including new set of icons (Filled, Sharp, Rounded, Two-Toned, and Outined icons).
+
+For more information, please check the **[Material Theme Editor](https://material.io/tools/theme-editor/)** website.
+
+A special thanks to everyone who supported this project. 🤗
+
+---------------------------------------
 
 Google Material Icons for Sketch is a Google icon set for Sketch App. These are originally from Google library, which I'll try to keep updated.
-
+ 
 ![](http://i.imgur.com/FVXkIBw.png) 
 
 ### Screenshots
-
-![](https://i.imgur.com/nPEgI3d.png)
 
 ![](https://i.imgur.com/OYACe85.png)
 
